@@ -1,5 +1,4 @@
 
-
 class Inson: 
   def __init__(self, ismi, familiya,age,job,city): #xususiyatlarini e'lon qilish, method classga tegishli funksiya.
     self.ismi=ismi

@@ -1,11 +1,6 @@
 
 
 #######################################
-
-
-
-
-
 info={}
 
 key=input('Kalit so\'zni kiriting:')
